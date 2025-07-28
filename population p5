@@ -3,8 +3,6 @@
 
 void main() {
 
-
-    // Given Data
     long int total_population = 1441981744;
     float women_percent = 48.4;
     float men_percent = 100.0 - women_percent;
