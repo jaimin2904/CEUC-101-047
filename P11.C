@@ -1,5 +1,5 @@
-/*aim:
- programeer:
+/*aim:to give grades based on marks.
+ programeer:jaimin khambhliya 
  date:
  */
 #include<stdio.h>
@@ -16,3 +16,4 @@ int main()
 
 
   }
+
