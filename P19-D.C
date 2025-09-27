@@ -46,16 +46,9 @@ void main()
 	       k--;
 	      }
 
-
-
-
-
-
-
-
-
   printf("\n");
 
     }
       getch();
       }
+
