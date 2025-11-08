@@ -50,6 +50,8 @@ struct book{
 
 
                  }
+             printf("\n");
 
                       return 0;
            }
+
