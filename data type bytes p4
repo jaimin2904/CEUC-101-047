@@ -1,3 +1,6 @@
+/* aim: find the size of data type
+   name:jaimin khambhaliya 
+   date:  */
 #include<stdio.h>
 #include<conio.h>
 int main()
@@ -10,3 +13,4 @@ int main()
      getch();
      return 0;
       }
+
