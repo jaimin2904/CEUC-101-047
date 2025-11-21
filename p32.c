@@ -4,7 +4,7 @@
 void reverse(char *,int);
 void main(){
     FILE *fp;
-    printf("Rut Rupala, 25CE102!\n");
+    printf("jaimin khambhaliya, 25CE047!\n");
     int j =0;
     fp = fopen("Demo.txt","r");
     if (fp == NULL)
